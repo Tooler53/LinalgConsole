@@ -1,0 +1,20 @@
+C:\Users\Константин\Desktop\linalg_console1\linalg_console1\linalg_console1\bin\Release\linalg_console1.exe.config
+C:\Users\Константин\Desktop\linalg_console1\linalg_console1\linalg_console1\bin\Release\linalg_console1.exe
+C:\Users\Константин\Desktop\linalg_console1\linalg_console1\linalg_console1\bin\Release\linalg_console1.pdb
+C:\Users\Константин\Desktop\linalg_console1\linalg_console1\linalg_console1\obj\Release\linalg_console1.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\linalg_console1\linalg_console1\linalg_console1\obj\Release\linalg_console1.exe
+C:\Users\Константин\Desktop\linalg_console1\linalg_console1\linalg_console1\obj\Release\linalg_console1.pdb
+C:\Users\Константин\Desktop\Курсовая\linalg_console1\linalg_console1\bin\Release\linalg.exe.config
+C:\Users\Константин\Desktop\Курсовая\linalg_console1\linalg_console1\bin\Release\linalg.exe
+C:\Users\Константин\Desktop\Курсовая\linalg_console1\linalg_console1\bin\Release\linalg.pdb
+C:\Users\Константин\Desktop\Курсовая\linalg_console1\linalg_console1\obj\Release\linalg_console1.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Курсовая\linalg_console1\linalg_console1\obj\Release\linalg.exe
+C:\Users\Константин\Desktop\Курсовая\linalg_console1\linalg_console1\obj\Release\linalg.pdb
+C:\Users\Константин\Desktop\Курсовая\linalg_console1\linalg_console1\obj\Release\linalg_console1.csprojResolveAssemblyReference.cache
+C:\Users\Notebook-Yarilin\Desktop\Новая папка\Курсовая\linalg_console1\linalg_console1\bin\Release\linalg.exe.config
+C:\Users\Notebook-Yarilin\Desktop\Новая папка\Курсовая\linalg_console1\linalg_console1\bin\Release\linalg.exe
+C:\Users\Notebook-Yarilin\Desktop\Новая папка\Курсовая\linalg_console1\linalg_console1\bin\Release\linalg.pdb
+C:\Users\Notebook-Yarilin\Desktop\Новая папка\Курсовая\linalg_console1\linalg_console1\obj\Release\linalg_console1.csprojResolveAssemblyReference.cache
+C:\Users\Notebook-Yarilin\Desktop\Новая папка\Курсовая\linalg_console1\linalg_console1\obj\Release\linalg_console1.csproj.CoreCompileInputs.cache
+C:\Users\Notebook-Yarilin\Desktop\Новая папка\Курсовая\linalg_console1\linalg_console1\obj\Release\linalg.exe
+C:\Users\Notebook-Yarilin\Desktop\Новая папка\Курсовая\linalg_console1\linalg_console1\obj\Release\linalg.pdb
